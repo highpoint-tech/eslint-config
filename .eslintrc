@@ -1,0 +1,10 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": ["prettier"],
+  "rules": {
+    "quote-props": 0,
+    "quotes": [1, "single"]
+  }
+}

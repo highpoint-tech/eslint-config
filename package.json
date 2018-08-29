@@ -1,0 +1,25 @@
+{
+  "name": "@highpoint/eslint-config",
+  "version": "0.1.0",
+  "description": "HighPoint eslint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hp-mobile/eslint-config.git"
+  },
+  "author": "HighPoint <support@mhighpoint.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "peerDependencies": {
+    "eslint": "^5.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-prettier": "^3.0.1",
+    "prettier": "^1.14.2"
+  }
+}
