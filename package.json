@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hp-mobile/eslint-config.git"
+    "url": "git+ssh://git@github.com/highpoint-tech/eslint-config.git"
   },
   "author": "HighPoint <support@mhighpoint.com>",
   "license": "MIT",
