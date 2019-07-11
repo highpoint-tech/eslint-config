@@ -1,6 +1,6 @@
 {
   "name": "@highpoint/eslint-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "HighPoint eslint configuration",
   "main": "index.js",
   "repository": {
